@@ -13,18 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 😄 Pronouns: [he/his/him](https://pronoun.is/he)
 -->
 
 I'm hafeez.
 
-- 🔭 I’m currently working for Web frontend/backend programmer / android app (using flutter).
-- 💬 Ask me about anything!
-- 😄 Pronouns: [he/his/him](https://pronoun.is/he)
-- 📫 How to reach me:  [keybase](https://keybase.io/yuk7) 
-- ⚡ Fun fact: I'm a full-time daydreamer, programming for life.
-
-![Counter](https://visitor-badge.glitch.me/badge?page_id=myapit.visitor-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/myapit?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/myapit?label=GH%20sponsors&style=flat)](https://github.com/sponsors/myapit)
+- 🔭 I’m currently working for Web (frontend/backend) / android app (using flutter) / terminal based app (Linux).
+- 📫 How to reach me:  [keybase](https://keybase.io/myapit) 
+- ⚡ Etc : I'm a full-time daydreamer, programming for life.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myapit&layout=compact&theme=great-gatsby)
