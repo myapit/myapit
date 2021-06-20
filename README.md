@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 😄 Pronouns: [he/his/him](https://pronoun.is/he)
--->
-
-I'm hafeez.
-
 - 🔭 I’m currently working for Web (frontend/backend) / android app (using flutter) / terminal based app (Linux).
 - 📫 How to reach me:  [keybase](https://keybase.io/myapit) 
 - ⚡ Etc : I'm a full-time daydreamer, programming for life.
+-->
+I'm hafeez, a programmer for fun and life.
+
+- 🔭 I’m currently working for Web (frontend/backend) / android app (using flutter) / terminal based app (Linux)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myapit&layout=compact&theme=great-gatsby)
