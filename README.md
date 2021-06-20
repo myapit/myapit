@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 I'm hafeez, a programmer for fun and life.
 
 - 😄 I’m currently having fun with web dev (frontend/backend) / android app (using flutter) / terminal based app (Linux) / Bash 
+- 🔭 My pages : <a href="https://myapit.github.io">myapit.github.io</a> / <a href="https://myapit.wordpress.com">myapit.wordpress.com</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myapit&layout=compact&theme=great-gatsby)
