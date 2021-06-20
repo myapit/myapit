@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 
 <!--
 **myapit/myapit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 -->
 I'm hafeez, a programmer for fun and life.
 
-- 🔭 I’m currently working for Web (frontend/backend) / android app (using flutter) / terminal based app (Linux)
+- 😄 I’m currently having fun with web dev (frontend/backend) / android app (using flutter) / terminal based app (Linux) / Bash 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myapit&layout=compact&theme=great-gatsby)
